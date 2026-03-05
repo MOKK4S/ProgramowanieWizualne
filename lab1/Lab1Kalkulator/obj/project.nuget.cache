@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ssesCVzz7Nw=",
+  "success": true,
+  "projectFilePath": "/Users/mokk/PW/lab1/Lab1Kalkulator/Lab1Kalkulator.csproj",
+  "expectedPackageFiles": [
+    "/Users/mokk/.nuget/packages/microsoft.windowsdesktop.app.ref/10.0.4/microsoft.windowsdesktop.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

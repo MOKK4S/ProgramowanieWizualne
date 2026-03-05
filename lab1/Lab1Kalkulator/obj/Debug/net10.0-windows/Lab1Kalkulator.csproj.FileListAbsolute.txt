@@ -1,0 +1,14 @@
+/Users/mokk/PW/lab1/Lab1Kalkulator/bin/Debug/net10.0-windows/Lab1Kalkulator
+/Users/mokk/PW/lab1/Lab1Kalkulator/bin/Debug/net10.0-windows/Lab1Kalkulator.deps.json
+/Users/mokk/PW/lab1/Lab1Kalkulator/bin/Debug/net10.0-windows/Lab1Kalkulator.runtimeconfig.json
+/Users/mokk/PW/lab1/Lab1Kalkulator/bin/Debug/net10.0-windows/Lab1Kalkulator.dll
+/Users/mokk/PW/lab1/Lab1Kalkulator/bin/Debug/net10.0-windows/Lab1Kalkulator.pdb
+/Users/mokk/PW/lab1/Lab1Kalkulator/obj/Debug/net10.0-windows/Lab1Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mokk/PW/lab1/Lab1Kalkulator/obj/Debug/net10.0-windows/Lab1Kalkulator.AssemblyInfoInputs.cache
+/Users/mokk/PW/lab1/Lab1Kalkulator/obj/Debug/net10.0-windows/Lab1Kalkulator.AssemblyInfo.cs
+/Users/mokk/PW/lab1/Lab1Kalkulator/obj/Debug/net10.0-windows/Lab1Kalkulator.csproj.CoreCompileInputs.cache
+/Users/mokk/PW/lab1/Lab1Kalkulator/obj/Debug/net10.0-windows/Lab1Kalkulator.dll
+/Users/mokk/PW/lab1/Lab1Kalkulator/obj/Debug/net10.0-windows/refint/Lab1Kalkulator.dll
+/Users/mokk/PW/lab1/Lab1Kalkulator/obj/Debug/net10.0-windows/Lab1Kalkulator.pdb
+/Users/mokk/PW/lab1/Lab1Kalkulator/obj/Debug/net10.0-windows/Lab1Kalkulator.genruntimeconfig.cache
+/Users/mokk/PW/lab1/Lab1Kalkulator/obj/Debug/net10.0-windows/ref/Lab1Kalkulator.dll
